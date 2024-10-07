@@ -1,4 +1,4 @@
-# Redmond-Firefox
+# A fork of Redmond-Firefox
 A collection of Internet Explorer inspired themes for Firefox
 ![Image Screenshot](https://github.com/matthewmx86/Redmond-Firefox/blob/master/Screenshots/Screenshot1.png)
 ## About
