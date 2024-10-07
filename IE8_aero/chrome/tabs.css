@@ -86,6 +86,28 @@ spacer[part=overflow-end-indicator] {
    margin-right: 3px !important;
 }
 
+}
+
+.tab-close-button[selected] {
+  height: 12px !important
+}
+
+.tab-close-button[selected]:hover {
+  height: 12px !important
+}
+
+.tab-close-button {
+  height: 12px !important
+}
+
+.tab-close-button:hover {
+  height: 12px !important
+}
+
+.tab-close-button[hover] {
+  height: 12px !important
+}
+
 
 
 
